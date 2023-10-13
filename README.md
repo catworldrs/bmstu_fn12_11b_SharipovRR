@@ -1,3 +1,3 @@
-# bmstu_fn12_11b_SharipovRR
+# bmstu_fs12_11b_SharipovRR
 Шарипов Руслан Рафикович
 Студент ФН12-11Б
